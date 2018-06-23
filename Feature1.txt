@@ -1,2 +1,3 @@
 Implementation
 Bug fixed
+Bug 2 fixed
